@@ -1,5 +1,5 @@
-# Projeto de iniciante
+print(´´Olá,mundo!``)
+print(´´Esse é meu primeiro código em Python.``)
 
-Projeto simples para aprender Github
-
-Autor: Paulo 
+Paulo = input(´´Qual é o seu nome?´´)
+print(´´Prazer em te conhecer´´, Paulo)
